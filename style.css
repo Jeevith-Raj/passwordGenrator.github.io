@@ -55,5 +55,10 @@ img{
     background: #1c2c0238;
     font-size: 22px;
     font-weight: 333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 26px;
+    cursor: pointer;
 
 }
